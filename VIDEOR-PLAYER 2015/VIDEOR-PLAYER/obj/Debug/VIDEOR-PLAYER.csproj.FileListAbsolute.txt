@@ -1,0 +1,24 @@
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\bin\Debug\VIDEOR-PLAYER.exe.config
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\bin\Debug\VIDEOR-PLAYER.exe
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\bin\Debug\VIDEOR-PLAYER.pdb
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\bin\Debug\Interop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\bin\Debug\AxInterop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csprojResolveAssemblyReference.cache
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csproj.ResolveComReference.cache
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR_PLAYER.Properties.Resources.resources
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csproj.GenerateResource.Cache
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.exe
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.pdb
+E:\Software_Project\C#\VIDEOR-PLAYER\VIDEOR-PLAYER\obj\Debug\VIDEOR_PLAYER.PSVIDEOR.resources
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\bin\Debug\VIDEOR-PLAYER.exe.config
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\Interop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\AxInterop.WMPLib.dll
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csproj.ResolveComReference.cache
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.exe
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.pdb
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csprojResolveAssemblyReference.cache
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR_PLAYER.PSVIDEOR.resources
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR_PLAYER.Properties.Resources.resources
+E:\Software_Project\C#\VIDEOR-PLAYER 2015\VIDEOR-PLAYER\obj\Debug\VIDEOR-PLAYER.csproj.GenerateResource.Cache

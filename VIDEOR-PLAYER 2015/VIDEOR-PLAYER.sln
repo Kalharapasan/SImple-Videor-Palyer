@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIDEOR-PLAYER", "VIDEOR-PLAYER\VIDEOR-PLAYER.csproj", "{8496B384-2C53-47D3-8903-744EC66F62BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PS", "C:\Users\KALHARA\Documents\C# SETUP\PS\PS.vdproj", "{973D5731-97A3-4329-9B9A-07344A92112F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8496B384-2C53-47D3-8903-744EC66F62BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8496B384-2C53-47D3-8903-744EC66F62BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8496B384-2C53-47D3-8903-744EC66F62BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8496B384-2C53-47D3-8903-744EC66F62BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973D5731-97A3-4329-9B9A-07344A92112F}.Debug|Any CPU.ActiveCfg = Debug
+		{973D5731-97A3-4329-9B9A-07344A92112F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
